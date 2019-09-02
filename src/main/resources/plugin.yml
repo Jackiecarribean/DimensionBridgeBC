@@ -1,0 +1,8 @@
+name: WorldLinkServer
+version: ${project.version}
+main: xyz.darke.worldlinkserver.WorldLinkServer
+api-version: "1.13"
+prefix: WorldLinkServer
+authors: [Absent_Light]
+description: Plugin which runs on BungeeCord connected Spigot servers to coordinate cross dimension server changes
+website: darke.xyz
